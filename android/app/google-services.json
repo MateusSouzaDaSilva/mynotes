@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977608117190",
+    "project_id": "mateus-mynotes-project",
+    "storage_bucket": "mateus-mynotes-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977608117190:android:7a382f6cc57150158ec0c7",
+        "android_client_info": {
+          "package_name": "com.mateussilva.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977608117190-g0m6j796cma87lqr8hsd0cip0v7vll7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqJVmNVKeuy0cTZ7Omz1rv5jukgybZm7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977608117190-g0m6j796cma87lqr8hsd0cip0v7vll7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
