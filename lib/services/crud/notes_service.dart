@@ -259,7 +259,7 @@ class NotesService {
     } on DatabaseAlreadyOpenException {
       // empty
     }
-  }
+  }  
 
   Future<void> open() async {
     if (_db != null) {
